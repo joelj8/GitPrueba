@@ -1,0 +1,7 @@
+01/04/2016  05:34 PM    <DIR>          .
+01/04/2016  05:34 PM    <DIR>          ..
+01/04/2016  02:20 PM               509 directorio.txt
+01/03/2016  10:35 PM    <DIR>          GitPruebaClone
+01/03/2016  11:17 PM                63 hola.scala
+01/04/2016  05:34 PM                 0 prueba.txt
+01/03/2016  10:35 PM                29 readme.txt
