@@ -1,1 +1,1 @@
-﻿println("Hola mundo, desde un script! Cambiado por Lorenzo")
+﻿println("Hola mundo, desde un script! Cambiado x Lorenzo")

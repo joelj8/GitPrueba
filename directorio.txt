@@ -1,14 +1,3 @@
- Volume in drive C has no label.
- Volume Serial Number is ECAA-E925
-
- Directory of C:\Users\joel\GitPrueba
-
-01/03/2016  08:07 PM    <DIR>          .
-01/03/2016  08:07 PM    <DIR>          ..
-01/03/2016  08:07 PM                 0 directorio.txt
-12/29/2015  09:53 PM    <DIR>          GitPrueba
-12/29/2015  10:10 PM    <DIR>          GitPruebaClone
-04/30/2014  09:55 PM                80 hola.scala
+01/03/2016  10:09 PM                 0 directorio.txt
+01/03/2016  09:59 PM                63 hola.scala
 12/29/2015  09:47 PM                29 readme.txt
-               3 File(s)            109 bytes
-               4 Dir(s)   4,572,827,648 bytes free
